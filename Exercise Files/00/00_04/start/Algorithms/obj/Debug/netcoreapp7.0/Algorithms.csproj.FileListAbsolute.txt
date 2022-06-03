@@ -1,0 +1,15 @@
+/Users/wferebee/Desktop/Ex_Files_C_Sharp_Algorithms/Exercise Files/00/00_04/start/Algorithms/bin/Debug/netcoreapp7.0/Algorithms
+/Users/wferebee/Desktop/Ex_Files_C_Sharp_Algorithms/Exercise Files/00/00_04/start/Algorithms/bin/Debug/netcoreapp7.0/Algorithms.deps.json
+/Users/wferebee/Desktop/Ex_Files_C_Sharp_Algorithms/Exercise Files/00/00_04/start/Algorithms/bin/Debug/netcoreapp7.0/Algorithms.runtimeconfig.json
+/Users/wferebee/Desktop/Ex_Files_C_Sharp_Algorithms/Exercise Files/00/00_04/start/Algorithms/bin/Debug/netcoreapp7.0/Algorithms.dll
+/Users/wferebee/Desktop/Ex_Files_C_Sharp_Algorithms/Exercise Files/00/00_04/start/Algorithms/bin/Debug/netcoreapp7.0/Algorithms.pdb
+/Users/wferebee/Desktop/Ex_Files_C_Sharp_Algorithms/Exercise Files/00/00_04/start/Algorithms/obj/Debug/netcoreapp7.0/Algorithms.csproj.AssemblyReference.cache
+/Users/wferebee/Desktop/Ex_Files_C_Sharp_Algorithms/Exercise Files/00/00_04/start/Algorithms/obj/Debug/netcoreapp7.0/Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wferebee/Desktop/Ex_Files_C_Sharp_Algorithms/Exercise Files/00/00_04/start/Algorithms/obj/Debug/netcoreapp7.0/Algorithms.AssemblyInfoInputs.cache
+/Users/wferebee/Desktop/Ex_Files_C_Sharp_Algorithms/Exercise Files/00/00_04/start/Algorithms/obj/Debug/netcoreapp7.0/Algorithms.AssemblyInfo.cs
+/Users/wferebee/Desktop/Ex_Files_C_Sharp_Algorithms/Exercise Files/00/00_04/start/Algorithms/obj/Debug/netcoreapp7.0/Algorithms.csproj.CoreCompileInputs.cache
+/Users/wferebee/Desktop/Ex_Files_C_Sharp_Algorithms/Exercise Files/00/00_04/start/Algorithms/obj/Debug/netcoreapp7.0/Algorithms.dll
+/Users/wferebee/Desktop/Ex_Files_C_Sharp_Algorithms/Exercise Files/00/00_04/start/Algorithms/obj/Debug/netcoreapp7.0/refint/Algorithms.dll
+/Users/wferebee/Desktop/Ex_Files_C_Sharp_Algorithms/Exercise Files/00/00_04/start/Algorithms/obj/Debug/netcoreapp7.0/Algorithms.pdb
+/Users/wferebee/Desktop/Ex_Files_C_Sharp_Algorithms/Exercise Files/00/00_04/start/Algorithms/obj/Debug/netcoreapp7.0/Algorithms.genruntimeconfig.cache
+/Users/wferebee/Desktop/Ex_Files_C_Sharp_Algorithms/Exercise Files/00/00_04/start/Algorithms/obj/Debug/netcoreapp7.0/ref/Algorithms.dll

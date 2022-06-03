@@ -1,0 +1,36 @@
+/Users/author/Desktop/Algorithms/bin/Debug/netcoreapp2.0/Algorithms.deps.json
+/Users/author/Desktop/Algorithms/bin/Debug/netcoreapp2.0/Algorithms.runtimeconfig.json
+/Users/author/Desktop/Algorithms/bin/Debug/netcoreapp2.0/Algorithms.runtimeconfig.dev.json
+/Users/author/Desktop/Algorithms/bin/Debug/netcoreapp2.0/Algorithms.dll
+/Users/author/Desktop/Algorithms/bin/Debug/netcoreapp2.0/Algorithms.pdb
+/Users/author/Desktop/Algorithms/obj/Debug/netcoreapp2.0/Algorithms.csproj.CoreCompileInputs.cache
+/Users/author/Desktop/Algorithms/obj/Debug/netcoreapp2.0/Algorithms.AssemblyInfoInputs.cache
+/Users/author/Desktop/Algorithms/obj/Debug/netcoreapp2.0/Algorithms.AssemblyInfo.cs
+/Users/author/Desktop/Algorithms/obj/Debug/netcoreapp2.0/Algorithms.dll
+/Users/author/Desktop/Algorithms/obj/Debug/netcoreapp2.0/Algorithms.pdb
+/Users/wferebee/Downloads/Ex_Files_C_Sharp_Algorithms/Exercise Files/00/00_04/end/Algorithms/bin/Debug/netcoreapp2.0/Algorithms.deps.json
+/Users/wferebee/Downloads/Ex_Files_C_Sharp_Algorithms/Exercise Files/00/00_04/end/Algorithms/bin/Debug/netcoreapp2.0/Algorithms.runtimeconfig.json
+/Users/wferebee/Downloads/Ex_Files_C_Sharp_Algorithms/Exercise Files/00/00_04/end/Algorithms/bin/Debug/netcoreapp2.0/Algorithms.runtimeconfig.dev.json
+/Users/wferebee/Downloads/Ex_Files_C_Sharp_Algorithms/Exercise Files/00/00_04/end/Algorithms/bin/Debug/netcoreapp2.0/Algorithms.dll
+/Users/wferebee/Downloads/Ex_Files_C_Sharp_Algorithms/Exercise Files/00/00_04/end/Algorithms/bin/Debug/netcoreapp2.0/Algorithms.pdb
+/Users/wferebee/Downloads/Ex_Files_C_Sharp_Algorithms/Exercise Files/00/00_04/end/Algorithms/obj/Debug/netcoreapp2.0/Algorithms.csproj.AssemblyReference.cache
+/Users/wferebee/Downloads/Ex_Files_C_Sharp_Algorithms/Exercise Files/00/00_04/end/Algorithms/obj/Debug/netcoreapp2.0/Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wferebee/Downloads/Ex_Files_C_Sharp_Algorithms/Exercise Files/00/00_04/end/Algorithms/obj/Debug/netcoreapp2.0/Algorithms.AssemblyInfoInputs.cache
+/Users/wferebee/Downloads/Ex_Files_C_Sharp_Algorithms/Exercise Files/00/00_04/end/Algorithms/obj/Debug/netcoreapp2.0/Algorithms.AssemblyInfo.cs
+/Users/wferebee/Downloads/Ex_Files_C_Sharp_Algorithms/Exercise Files/00/00_04/end/Algorithms/obj/Debug/netcoreapp2.0/Algorithms.csproj.CoreCompileInputs.cache
+/Users/wferebee/Downloads/Ex_Files_C_Sharp_Algorithms/Exercise Files/00/00_04/end/Algorithms/obj/Debug/netcoreapp2.0/Algorithms.dll
+/Users/wferebee/Downloads/Ex_Files_C_Sharp_Algorithms/Exercise Files/00/00_04/end/Algorithms/obj/Debug/netcoreapp2.0/Algorithms.pdb
+/Users/wferebee/Downloads/Ex_Files_C_Sharp_Algorithms/Exercise Files/00/00_04/end/Algorithms/obj/Debug/netcoreapp2.0/Algorithms.genruntimeconfig.cache
+/Users/wferebee/Desktop/Ex_Files_C_Sharp_Algorithms/Exercise Files/00/00_04/end/Algorithms/bin/Debug/netcoreapp2.0/Algorithms.deps.json
+/Users/wferebee/Desktop/Ex_Files_C_Sharp_Algorithms/Exercise Files/00/00_04/end/Algorithms/bin/Debug/netcoreapp2.0/Algorithms.runtimeconfig.json
+/Users/wferebee/Desktop/Ex_Files_C_Sharp_Algorithms/Exercise Files/00/00_04/end/Algorithms/bin/Debug/netcoreapp2.0/Algorithms.runtimeconfig.dev.json
+/Users/wferebee/Desktop/Ex_Files_C_Sharp_Algorithms/Exercise Files/00/00_04/end/Algorithms/bin/Debug/netcoreapp2.0/Algorithms.dll
+/Users/wferebee/Desktop/Ex_Files_C_Sharp_Algorithms/Exercise Files/00/00_04/end/Algorithms/bin/Debug/netcoreapp2.0/Algorithms.pdb
+/Users/wferebee/Desktop/Ex_Files_C_Sharp_Algorithms/Exercise Files/00/00_04/end/Algorithms/obj/Debug/netcoreapp2.0/Algorithms.csproj.AssemblyReference.cache
+/Users/wferebee/Desktop/Ex_Files_C_Sharp_Algorithms/Exercise Files/00/00_04/end/Algorithms/obj/Debug/netcoreapp2.0/Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wferebee/Desktop/Ex_Files_C_Sharp_Algorithms/Exercise Files/00/00_04/end/Algorithms/obj/Debug/netcoreapp2.0/Algorithms.AssemblyInfoInputs.cache
+/Users/wferebee/Desktop/Ex_Files_C_Sharp_Algorithms/Exercise Files/00/00_04/end/Algorithms/obj/Debug/netcoreapp2.0/Algorithms.AssemblyInfo.cs
+/Users/wferebee/Desktop/Ex_Files_C_Sharp_Algorithms/Exercise Files/00/00_04/end/Algorithms/obj/Debug/netcoreapp2.0/Algorithms.csproj.CoreCompileInputs.cache
+/Users/wferebee/Desktop/Ex_Files_C_Sharp_Algorithms/Exercise Files/00/00_04/end/Algorithms/obj/Debug/netcoreapp2.0/Algorithms.dll
+/Users/wferebee/Desktop/Ex_Files_C_Sharp_Algorithms/Exercise Files/00/00_04/end/Algorithms/obj/Debug/netcoreapp2.0/Algorithms.pdb
+/Users/wferebee/Desktop/Ex_Files_C_Sharp_Algorithms/Exercise Files/00/00_04/end/Algorithms/obj/Debug/netcoreapp2.0/Algorithms.genruntimeconfig.cache

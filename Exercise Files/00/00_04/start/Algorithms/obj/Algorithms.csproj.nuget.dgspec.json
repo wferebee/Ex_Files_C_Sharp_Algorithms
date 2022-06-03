@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/wferebee/Desktop/Ex_Files_C_Sharp_Algorithms/Exercise Files/00/00_04/start/Algorithms/Algorithms.csproj": {}
+  },
+  "projects": {
+    "/Users/wferebee/Desktop/Ex_Files_C_Sharp_Algorithms/Exercise Files/00/00_04/start/Algorithms/Algorithms.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/wferebee/Desktop/Ex_Files_C_Sharp_Algorithms/Exercise Files/00/00_04/start/Algorithms/Algorithms.csproj",
+        "projectName": "Algorithms",
+        "projectPath": "/Users/wferebee/Desktop/Ex_Files_C_Sharp_Algorithms/Exercise Files/00/00_04/start/Algorithms/Algorithms.csproj",
+        "packagesPath": "/Users/wferebee/.nuget/packages/",
+        "outputPath": "/Users/wferebee/Desktop/Ex_Files_C_Sharp_Algorithms/Exercise Files/00/00_04/start/Algorithms/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/wferebee/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "netcoreapp7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "netcoreapp7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100-preview.4.22252.9/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
