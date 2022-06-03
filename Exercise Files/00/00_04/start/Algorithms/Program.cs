@@ -25,6 +25,7 @@ namespace Algorithms {
             Console.WriteLine(findMaximum(3, 2, 3));
             Console.WriteLine(findMaximum(1, 1, 9));
             Console.WriteLine(findMaximum(1, 9, 9));
+            Console.WriteLine("Pull Request Test");
         }
     }
 }
